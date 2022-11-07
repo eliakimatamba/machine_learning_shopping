@@ -1,0 +1,9 @@
+CustomerID,ItemID,Quantity,InvoiceDate,UnitPrice,CustomerName,Country
+12346,23166,1,2011-01-18,2.08,Customer_12346_name,United Kingdom
+12347,16008,24,2011-08-26,2.1,Customer_12347_name,EIRE
+12348,23166,2,2011-09-16,2.08,Customer_12348_name,United Kingdom
+12349,23166,1,2011-11-21,2.08,Customer_12349_name,United Kingdom
+12350,16008,12,2011-12-16,2.1,Customer_12350_name,United Kingdom
+12352,16008,48,2011-02-02,2.1,Customer_12352_name,United Kingdom
+
+Customer_12346_name buys 1 unit of item 23166 on 2011-01-18, customer_12347_name buys 24 units of item 16008 on 2011-08-26, customer_12348_name buys 2 units of item 23166 on 2011-09-16, customer_12349_name buys 1 unit of item 23166 on 2011-11-21, customer_12350_name buys 12 units of item 16008 on 2011-12-16, customer_12352_name buys 48 units of item 16008 on 2011-02-02.
